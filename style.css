@@ -1,0 +1,70 @@
+.foto {
+  position: absolute;
+  height: 300px;
+  width: 20%;
+  left: 9%;
+  top: 3%;
+  border:8px solid white;
+  border-radius: 45%;
+  background-color: white;
+}
+
+.title {
+  display: inline-block;
+  height: 180px;
+  width: 100%;
+  padding-top: 6%;
+  color: rgb(38, 63, 103);
+  background-color:white;
+}
+
+.col-4 {
+  
+  margin-top: 60px;
+  margin-left: 3px;
+  color: rgb(38, 63, 103);
+}
+
+.col-8 {
+  position: absolute;
+  padding-top: 39px;
+  padding-left: 40px;
+  margin-left: -5px;
+  color: rgb(38, 63, 103);
+}
+
+h1 {
+  padding-top: 20px;
+  margin-left: 36%;
+  color: rgb(38, 63, 103);
+}
+
+h3 {
+  margin-left: 36%;
+  color: rgb(38, 63, 103);
+}
+
+h4 {
+  margin-left: 0%;
+  color: rgb(38, 63, 103);
+}
+
+.tentang {
+  margin-left: 36%;
+  margin-top: 2%;
+  color: rgb(38, 63, 103);
+}
+
+footer {
+  text-align: center;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  color: rgb(38, 63, 103);
+}
+
+i {
+  color: rgb(38, 63, 103);
+}
+
+
+
