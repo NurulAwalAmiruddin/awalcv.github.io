@@ -13,7 +13,7 @@
   display: inline-block;
   height: 180px;
   width: 100%;
-  padding-top: 3%;
+  padding-top: 1%;
   color: rgb(38, 63, 103);
   background-color: white;
 }
@@ -22,6 +22,7 @@
   margin-top: 25px;
   padding-bottom: -10%;
   margin-left: 3px;
+
   color: rgb(38, 63, 103);
 }
 
